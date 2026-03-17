@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Fellipe Borsato
 
-💻 Front-end Developer passionate about building clean and scalable web applications.
-🎓 Software Engineering @ INATEL  
-⚡ Electronics Technician (Systems Development)
+-💻 Front-end Developer passionate about building clean and scalable web applications.
+-🎓 Software Engineering @ INATEL  
+-⚡ Electronics Technician (Systems Development)
 
 ---
 
