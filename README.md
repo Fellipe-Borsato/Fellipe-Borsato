@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fellipe Borsato
 
-💻 Front-end Developer  
+💻 Front-end Developer passionate about building clean and scalable web applications.
 🎓 Software Engineering @ INATEL  
 ⚡ Electronics Technician (Systems Development)
 
@@ -17,9 +17,14 @@
 
 ## 🛠️ Tech Stack
 
-<div>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,cpp,c,cs,git,github,vscode" />
-</div>
+ ### 💻 Front-end
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
+
+### ⚙️ Low-level / Systems
+<img src="https://skillicons.dev/icons?i=cpp,c,cs" />
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
@@ -34,12 +39,12 @@
 ## 📫 Contact
 
 - 📧 Email: fellipeborsato@gmail.com 
-- 💼 LinkedIn: Fellipe Borsato
+- 💼 LinkedIn: [Fellipe Borsato](https://www.linkedin.com/in/fellipe-borsato-8990803b8/)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Fellipe GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![Fellipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellipe-Borsato&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellipe-Borsato&layout=compact&theme=tokyonight)
