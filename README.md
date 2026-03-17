@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hello, I'm Fellipe Borsato
 
-<!--
-**Fellipe-Borsato/Fellipe-Borsato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-end Developer  
+🎓 Software Engineering @ INATEL  
+⚡ Electronics Technician (Systems Development)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+
+- I'm from Santa Rita do Sapucaí - MG, Brazil  
+- 💻 Passionate about technology and development  
+- ⚡ Focused on Front-end, but with experience as Full Stack  
+- 🧠 Always learning and building new things  
+
+---
+
+## 🛠️ Tech Stack
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,cpp,c,git,github,vscode" />
+</div>
+
+---
+
+## 📌 Featured Projects
+
+- 📊 Analytics Dashboard 
+- 🔢 Calculator in React  
+- 🐍 Snake Game (STM32)   
+
+---
+
+## 📫 Contact
+
+- 📧 Email: fellipeborsato@gmail.com 
+- 💼 LinkedIn: Fellipe Borsato
+
+---
+
+## 📊 GitHub Stats
+
+![Fellipe GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
