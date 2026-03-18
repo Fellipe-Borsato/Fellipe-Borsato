@@ -45,6 +45,4 @@
 
 ## 📊 GitHub Stats
 
-![Fellipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellipe-Borsato&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellipe-Borsato&layout=compact&theme=tokyonight)
