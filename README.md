@@ -40,9 +40,3 @@
 
 - 📧 Email: fellipeborsato@gmail.com 
 - 💼 LinkedIn: [Fellipe Borsato](https://www.linkedin.com/in/fellipe-borsato-8990803b8/)
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellipe-Borsato&layout=compact&theme=tokyonight)
